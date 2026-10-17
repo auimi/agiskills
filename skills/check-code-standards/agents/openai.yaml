@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Standards Reviewer"
+  short_description: "Review code for simple, maintainable design"
+  default_prompt: "Use $check-code-standards to review this code for readability, simplicity, FastAPI feature structure, and maintainability."

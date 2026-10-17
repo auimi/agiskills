@@ -1,0 +1,4 @@
+interface:
+  display_name: "SQLAlchemy Alembic Engineer"
+  short_description: "Review and implement database changes safely"
+  default_prompt: "Use $sqlalchemy-alembic-engineer to review this SQLAlchemy model and Alembic migration for production safety."

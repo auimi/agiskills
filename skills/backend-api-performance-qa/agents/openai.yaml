@@ -1,0 +1,4 @@
+interface:
+  display_name: "Backend/API Performance QA"
+  short_description: "Evaluate backend API performance risks"
+  default_prompt: "Use $backend-api-performance-qa to review this API for performance, scalability, and reliability risks."

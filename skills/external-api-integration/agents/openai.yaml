@@ -1,0 +1,4 @@
+interface:
+  display_name: "External API Integration"
+  short_description: "Plan and implement safe API integrations"
+  default_prompt: "Use $external-api-integration to plan and implement a third-party API integration safely."
